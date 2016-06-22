@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="PL_Pizzeria">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/EL_Seguridad"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/EL_Comunes"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/DAL_Seguridad"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/DAL_Comunes"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/BL_Seguridad"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/BL_Comunes"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/BL_Ventas"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/DAL_Ventas"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/EL_Ventas"/>
+        <property name="context-root" value="PL_Pizzeria"/>
+        <property name="java-output-path" value="/PL_Pizzeria/build/classes"/>
+    </wb-module>
+</project-modules>

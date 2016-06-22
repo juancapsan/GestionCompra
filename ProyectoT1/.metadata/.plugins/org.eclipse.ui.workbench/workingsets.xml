@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1442097890565_1" label="CapaDatos" name="CapaDatos">
+<item elementID="=DAL_Comunes" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=DAL_Seguridad" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=DAL_Ventas" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1442097915402_2" label="CapaNegocio" name="CapaNegocio">
+<item elementID="=BL_Comunes" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BL_Ventas" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BL_Seguridad" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1442097942483_3" label="CapaEntidades" name="CapaEntidades">
+<item elementID="=EL_Ventas" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=EL_Comunes" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=EL_Seguridad" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1442098024762_5" label="CapaPresentacion" name="CapaPresentacion">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PL_Pizzeria" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1442096652472_0" label="Window Working Set" name="Aggregate for window 1442096652471"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1442097950555_4" label="Multiple Working Sets" name="Aggregate:CapaDatos:CapaEntidades:CapaNegocio:">
+<workingSet IMemento.internal.id="CapaDatos"/>
+<workingSet IMemento.internal.id="CapaEntidades"/>
+<workingSet IMemento.internal.id="CapaNegocio"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1442098028067_6" label="Multiple Working Sets" name="Aggregate:CapaDatos:CapaEntidades:CapaNegocio:CapaPresentacion:">
+<workingSet IMemento.internal.id="CapaDatos"/>
+<workingSet IMemento.internal.id="CapaEntidades"/>
+<workingSet IMemento.internal.id="CapaNegocio"/>
+<workingSet IMemento.internal.id="CapaPresentacion"/>
+</workingSet>
+</workingSetManager>

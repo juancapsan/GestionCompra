@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.dal.seguridad.UsuarioDAL"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.CallableStatement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.dal.comunes.EmpleadoDal"/>
+<fullyQualifiedTypeName name="com.el.comunes.EmpleadoEnt"/>
+<fullyQualifiedTypeName name="com.bl.comunes.EmpleadoBL"/>
+<fullyQualifiedTypeName name="org.apache.jasper.tagplugins.jstl.core.Out"/>
+<fullyQualifiedTypeName name="com.dal.comunes.conexion"/>
+<fullyQualifiedTypeName name="com.dal.ventas.PizzaDAL"/>
+<fullyQualifiedTypeName name="com.dal.ventas.AgregadoDAL"/>
+<fullyQualifiedTypeName name="com.bl.ventas.PizzaBL"/>
+<fullyQualifiedTypeName name="com.el.ventas.PizzaEnt"/>
+<fullyQualifiedTypeName name="com.bl.ventas.AgregadoBL"/>
+<fullyQualifiedTypeName name="com.el.ventas.AgregadoEnt"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="com.dal.ventas.CustomerDAL"/>
+<fullyQualifiedTypeName name="com.bl.ventas.CustomerBL"/>
+<fullyQualifiedTypeName name="com.el.ventas.CustomerEnt"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="com.el.seguridad.UsuarioEnt"/>
+<fullyQualifiedTypeName name="com.el.comunes.MenuEnt"/>
+<fullyQualifiedTypeName name="com.dal.comunes.MenuDal"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>DAL_Seguridad</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>DAL_Comunes</name>
+			<type>2</type>
+			<locationURI>WORKSPACE_LOC/DAL_Comunes/src</locationURI>
+		</link>
+		<link>
+			<name>EL_Comunes</name>
+			<type>2</type>
+			<locationURI>WORKSPACE_LOC/EL_Comunes/src</locationURI>
+		</link>
+		<link>
+			<name>EL_Seguridad</name>
+			<type>2</type>
+			<locationURI>WORKSPACE_LOC/EL_Seguridad/src</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
